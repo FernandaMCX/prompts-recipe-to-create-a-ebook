@@ -1,0 +1,31 @@
+Projeto EBOOK Gerado por I.A.
+
+ℹ️ NOTE: Este é o repositório desenvolvido durante um curso realizado na plataforma DIO.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
+
+💻 Tecnologias utilizadas no projeto
+
+•	ChatGPT
+•	LeonardoAI
+•	PowerPoint
+
+🧠 Prompts
+
+ChatGPT：
+Ação	Prompt
+Conteúdo	Você é um especialista sênior em LGPD que trabalha na ANPD. Sugira um conteúdo de um e-book para explicar à população brasileira, de forma resumida, em linguagem clara, acessível e por meio de analogias, a LGPD.
+Título	O título deve ser curto, em linguagem simples e atrair a atenção das pessoas. Me dê 5 opções de título para o esse e-book.
+
+LeonardoAI：
+Ação	Prompt
+título	A split-screen digital artwork. One side shows a dynamic digital world, the other a futuristic shield emblazoned with a modern, stylized padlock logo, protecting the data.  Use a combination of cool blues and warm oranges.
+
+✨ Features
+
+•	Conteúdo gerado via ChatGPT
+•	Imagens geradas via LeonardoAI
+
+📚 Materiais
+
+•	Imagens utilizadas em Imagem-capa 
+•	ebook gerado durante as aulas em EBOOK - SEUS DADOS, SUAS REGRAS_LGPD
